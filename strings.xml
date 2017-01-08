@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hitlist</string>
+    <string name="textview1">Arya Stark has escaped...</string>
+    <string name="textview2">Arya Stark has escaped from the mystical world of Game Of Thrones and entered our world. The shock has driven her crazy. An unstable wreck, she has finally decided to destroy those who she finds annoying.
+    She is amongst us, shrouded in darkness, looking for her next victim.
+    </string>
+    <string name="gethitlist">Get Hitlist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
